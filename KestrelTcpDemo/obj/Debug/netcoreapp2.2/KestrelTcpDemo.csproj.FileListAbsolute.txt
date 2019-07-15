@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\MultiProtocolAspNetCore-master\KestrelTcpDemo\bin\Debug\netcoreapp2.2\KestrelTcpDemo.deps.json
+C:\Users\Administrator\Downloads\MultiProtocolAspNetCore-master\KestrelTcpDemo\bin\Debug\netcoreapp2.2\KestrelTcpDemo.runtimeconfig.json
+C:\Users\Administrator\Downloads\MultiProtocolAspNetCore-master\KestrelTcpDemo\bin\Debug\netcoreapp2.2\KestrelTcpDemo.runtimeconfig.dev.json
+C:\Users\Administrator\Downloads\MultiProtocolAspNetCore-master\KestrelTcpDemo\bin\Debug\netcoreapp2.2\KestrelTcpDemo.dll
+C:\Users\Administrator\Downloads\MultiProtocolAspNetCore-master\KestrelTcpDemo\bin\Debug\netcoreapp2.2\KestrelTcpDemo.pdb
+C:\Users\Administrator\Downloads\MultiProtocolAspNetCore-master\KestrelTcpDemo\obj\Debug\netcoreapp2.2\KestrelTcpDemo.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\MultiProtocolAspNetCore-master\KestrelTcpDemo\obj\Debug\netcoreapp2.2\KestrelTcpDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\MultiProtocolAspNetCore-master\KestrelTcpDemo\obj\Debug\netcoreapp2.2\KestrelTcpDemo.RazorAssemblyInfo.cache
+C:\Users\Administrator\Downloads\MultiProtocolAspNetCore-master\KestrelTcpDemo\obj\Debug\netcoreapp2.2\KestrelTcpDemo.RazorAssemblyInfo.cs
+C:\Users\Administrator\Downloads\MultiProtocolAspNetCore-master\KestrelTcpDemo\obj\Debug\netcoreapp2.2\KestrelTcpDemo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\MultiProtocolAspNetCore-master\KestrelTcpDemo\obj\Debug\netcoreapp2.2\KestrelTcpDemo.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\MultiProtocolAspNetCore-master\KestrelTcpDemo\obj\Debug\netcoreapp2.2\KestrelTcpDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Downloads\MultiProtocolAspNetCore-master\KestrelTcpDemo\obj\Debug\netcoreapp2.2\KestrelTcpDemo.dll
+C:\Users\Administrator\Downloads\MultiProtocolAspNetCore-master\KestrelTcpDemo\obj\Debug\netcoreapp2.2\KestrelTcpDemo.pdb
